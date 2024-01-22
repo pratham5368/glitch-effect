@@ -42,13 +42,14 @@
 }
 
 body {
-	margin: 0;
+	margin: 20px;
 	color: var(--color-text);
 	background-color: var(--color-bg);
 	font-family: widescreen-ex, sans-serif;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 	overflow-x: hidden;
+	
 }
 
 /* Page Loader */
